@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![ai-berkshire — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 中文 | [English](README_EN.md) | [日本語](README_JA.md)
 
 [![GitHub Trending](https://trendshift.io/api/badge/repositories/63696)](https://trendshift.io/repositories/63696)
@@ -748,3 +752,18 @@ MIT License
     <img alt="Star History Chart" src="assets/star-history.svg">
   </picture>
 </a>
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有结果展示
+
+![原研究报告保存的 2026 年二季度末三家机构美股持仓结构图，图内注明 EDGAR / Form 13F 数据来源；展示报告成果，不作为投资收益验证。](assets/readme/result.png)
+
+原研究报告保存的 2026 年二季度末三家机构美股持仓结构图，图内注明 EDGAR / Form 13F 数据来源；展示报告成果，不作为投资收益验证。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/ai-berkshire/blob/main/assets/13f-2026q2/chart1-holdings.png)。
+
+<!-- /readme-visual-refresh:selected-result -->
